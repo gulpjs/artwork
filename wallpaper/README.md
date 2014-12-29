@@ -2,7 +2,7 @@
 
 Created by: Steve Lacy <me@slacy.me> slacy.me 2013
 
-Created on: Linux 3.11 x64 Nvidia GTX 675X CUDA
+Created on: Linux 3.11 x64 Nvidia GTX 675MX CUDA
 
 Blender version 2.69
 
