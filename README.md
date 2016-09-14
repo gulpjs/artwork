@@ -1,6 +1,6 @@
 ## Usage guidelines
 
-I don't care what you use it for. Do whatever you want.
+I don't care what you use it for. Do whatever you want. License is CC0 which is fancy words for "Public Domain".
 
 ## License
 
