@@ -1,6 +1,6 @@
 ## Usage guidelines
 
-I don't care what you use it for. Do whatever you want. License is CC0 which is fancy words for "Public Domain".
+I don't care what you use it for. Do whatever you want. License is CC0 which is fancy words for "Public Domain". All material in this repository falls under CC0, and all authors of this material recognize that by submitting their content.
 
 ## License
 
